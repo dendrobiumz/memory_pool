@@ -4,6 +4,7 @@
 #include <string.h>
 
 typedef struct free_mem {
+    uint64_t    guard;
     int         next_free_idx;
 } free_mem_t;
 
