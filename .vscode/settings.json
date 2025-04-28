@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "mem_pool.h": "c",
-        "stdatomic.h": "c",
-        "stdint.h": "c"
-    }
-}
